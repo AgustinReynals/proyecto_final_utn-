@@ -352,4 +352,23 @@ css de pagina "quien soy"
     .reseñas div{
         flex-direction: column;
     }
+    
+    .presentacion{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .main-faq{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    main-libros{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .reseñas{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
 }
