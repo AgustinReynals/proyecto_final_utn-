@@ -348,7 +348,13 @@ css de pagina "quien soy"
         gap: 50px;
         margin-right: 10px;
     }
-
+    .main-slide{
+        margin:20px;
+    }
+    .frase-literaria{
+        margin:20px;    
+    }
+    
     .reseñas div{
         flex-direction: column;
     }
